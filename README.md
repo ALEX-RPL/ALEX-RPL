@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ALEX_CUY&fontSize=52&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20Building%20in%20Public&descAlignY=60&descSize=15"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ALEX_CUY&fontSize=52&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Open%20Source%20%7C%20Building%20in%20Public&descAlignY=60&descSize=15"/>
 </div>
 
 <!-- TYPING -->
