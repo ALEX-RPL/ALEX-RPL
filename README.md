@@ -76,11 +76,11 @@ const ALEX-RPL = {
 
 | Project | Stack | Status |
 |:---|:---|:---:|
-| 🛒 **[ShopEngine](https://github.com/ALEX-RPL/project-one)** — full-stack e-commerce w/ Stripe | `Next.js` `MongoDB` `Stripe` | ✅ Live |
-| 💬 **[ChatVerse](https://github.com/ALEX-RPL/project-two)** — real-time messaging app | `Socket.io` `Redis` `PostgreSQL` | ✅ Live |
-| 📊 **[DataViz](https://github.com/ALEX-RPL/project-three)** — ML-powered analytics dashboard | `Python` `FastAPI` `Recharts` | ✅ Live |
-| 🤖 **[AI Doc QA](https://github.com/ALEX-RPL/project-four)** — RAG document assistant | `OpenAI` `Langchain` `Pinecone` | ✅ Live |
-| ⚙️ **[CLI DevTools](https://github.com/ALEX-RPL/project-five)** — open-source dev toolbox | `Go` `Cobra` `Docker` | ✅ Live |
+| 🛒 **[ShopEngine](https://github.com/ALEX-RPL/project-one)** — full-stack e-commerce w/ Stripe | `Next.js` `MongoDB` `Stripe` | On Going |
+| 💬 **[ChatVerse](https://github.com/ALEX-RPL/project-two)** — real-time messaging app | `Socket.io` `Redis` `PostgreSQL` | On Going |
+| 📊 **[DataViz](https://github.com/ALEX-RPL/project-three)** — ML-powered analytics dashboard | `Python` `FastAPI` `Recharts` | On Going |
+| 🤖 **[AI Doc QA](https://github.com/ALEX-RPL/project-four)** — RAG document assistant | `OpenAI` `Langchain` `Pinecone` | On Going |
+| ⚙️ **[CLI DevTools](https://github.com/ALEX-RPL/project-five)** — open-source dev toolbox | `Go` `Cobra` `Docker` | On Going |
 
 </div>
 
