@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=YOUR_NAME&fontSize=52&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20Building%20in%20Public&descAlignY=60&descSize=15"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ALEX_CUY&fontSize=52&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20Building%20in%20Public&descAlignY=60&descSize=15"/>
 </div>
 
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1000&color=C8FF00&center=true&vCenter=true&repeat=true&width=480&height=60&lines=const+dev+%3D+%22YOUR_NAME%22+%F0%9F%91%8B;Building+things+that+scale+%F0%9F%9A%80;Open+source+%7C+Clean+code+%7C+Ship+fast+%E2%9A%A1;Available+for+freelance+%F0%9F%9F%A2" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1000&color=C8FF00&center=true&vCenter=true&repeat=true&width=480&height=60&lines=const+dev+%3D+%ALEX_CUY%22+%F0%9F%91%8B;Building+things+that+scale+%F0%9F%9A%80;Open+source+%7C+Clean+code+%7C+Ship+fast+%E2%9A%A1;Available+for+freelance+%F0%9F%9F%A2" />
   </a>
 </div>
 
@@ -14,19 +14,19 @@
 
 <!-- BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=c8ff00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ALEX-RPL&label=Profile+Views&color=c8ff00&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=c8ff00&labelColor=111" />
+  <img src="https://img.shields.io/github/followers/ALEX-RPL?label=Followers&style=flat-square&color=c8ff00&labelColor=111" />
   &nbsp;
-  <a href="https://YOUR_USERNAME.github.io">
+  <a href="https://ALEX-RPL.github.io">
     <img src="https://img.shields.io/badge/Portfolio-c8ff00?style=flat-square&logo=firefox&logoColor=000" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/Gapunya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/Gapunya">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -36,22 +36,21 @@
 ## `$ whoami`
 
 ```ts
-const YOUR_USERNAME = {
-  name:     "YOUR_NAME",
-  role:     "Full Stack Developer",
+const ALEX-RPL = {
+  name:     "Mohamad Febri Hansyah",
+  role:     "Junior Programmer",
   location: "Indonesia 🇮🇩",
-  company:  "YOUR_COMPANY / Freelance",
+  status:  "Pelajar",
 
   stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:   ["Node.js", "Go", "Python", "FastAPI"],
-    database:  ["PostgreSQL", "MongoDB", "Redis"],
-    devops:    ["Docker", "AWS", "GitHub Actions", "Nginx"],
+    frontend:  ["Next.js", "TypeScript", "Tailwind"],
+    backend:   ["Node.js", "Laravel", "Python", "Php"],
+    database:  ["Mysql", "MongoDB", "Redis"]
   },
 
   currentlyLearning: ["Rust", "Web3", "AI/ML Engineering"],
   openToWork: true,
-  contact: "hello@YOUR_DOMAIN.com",
+  contact: "mohamadfebri.dev@gmail.com",
 } as const;
 ```
 
@@ -60,13 +59,13 @@ const YOUR_USERNAME = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=c8ff00&icon_color=c8ff00" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=c8ff00&fire=ff2d78&currStreakLabel=c8ff00" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALEX-RPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=c8ff00&icon_color=c8ff00" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX-RPL&theme=tokyonight&hide_border=true&ring=c8ff00&fire=ff2d78&currStreakLabel=c8ff00" />
 </div>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=c8ff00" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=c8ff00&line=c8ff00&point=ffffff&hide_border=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX-RPL&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=c8ff00" />
+  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALEX-RPL&bg_color=1a1b27&color=c8ff00&line=c8ff00&point=ffffff&hide_border=true" />
 </div>
 
 ---
@@ -77,11 +76,11 @@ const YOUR_USERNAME = {
 
 | Project | Stack | Status |
 |:---|:---|:---:|
-| 🛒 **[ShopEngine](https://github.com/YOUR_USERNAME/project-one)** — full-stack e-commerce w/ Stripe | `Next.js` `MongoDB` `Stripe` | ✅ Live |
-| 💬 **[ChatVerse](https://github.com/YOUR_USERNAME/project-two)** — real-time messaging app | `Socket.io` `Redis` `PostgreSQL` | ✅ Live |
-| 📊 **[DataViz](https://github.com/YOUR_USERNAME/project-three)** — ML-powered analytics dashboard | `Python` `FastAPI` `Recharts` | ✅ Live |
-| 🤖 **[AI Doc QA](https://github.com/YOUR_USERNAME/project-four)** — RAG document assistant | `OpenAI` `Langchain` `Pinecone` | ✅ Live |
-| ⚙️ **[CLI DevTools](https://github.com/YOUR_USERNAME/project-five)** — open-source dev toolbox | `Go` `Cobra` `Docker` | ✅ Live |
+| 🛒 **[ShopEngine](https://github.com/ALEX-RPL/project-one)** — full-stack e-commerce w/ Stripe | `Next.js` `MongoDB` `Stripe` | ✅ Live |
+| 💬 **[ChatVerse](https://github.com/ALEX-RPL/project-two)** — real-time messaging app | `Socket.io` `Redis` `PostgreSQL` | ✅ Live |
+| 📊 **[DataViz](https://github.com/ALEX-RPL/project-three)** — ML-powered analytics dashboard | `Python` `FastAPI` `Recharts` | ✅ Live |
+| 🤖 **[AI Doc QA](https://github.com/ALEX-RPL/project-four)** — RAG document assistant | `OpenAI` `Langchain` `Pinecone` | ✅ Live |
+| ⚙️ **[CLI DevTools](https://github.com/ALEX-RPL/project-five)** — open-source dev toolbox | `Go` `Cobra` `Docker` | ✅ Live |
 
 </div>
 
@@ -110,7 +109,7 @@ const YOUR_USERNAME = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEX-RPL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -119,9 +118,9 @@ const YOUR_USERNAME = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ALEX_RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -157,10 +156,10 @@ jobs:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built a Real-time Chat App with 1000+ Concurrent Users](https://dev.to/YOUR_USERNAME)
-- [⚡ Next.js 15 — What's New and Why It Matters](https://dev.to/YOUR_USERNAME)
-- [🐳 Docker in 2025: A Developer's Practical Guide](https://dev.to/YOUR_USERNAME)
-- [🔒 JWT vs Session Auth — When to Use Which](https://dev.to/YOUR_USERNAME)
+- [🚀 How I Built a Real-time Chat App with 1000+ Concurrent Users](https://dev.to/ALEX-RPL)
+- [⚡ Next.js 15 — What's New and Why It Matters](https://dev.to/ALEX-RPL)
+- [🐳 Docker in 2025: A Developer's Practical Guide](https://dev.to/ALEX-RPL)
+- [🔒 JWT vs Session Auth — When to Use Which](https://dev.to/ALEX-RPL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -169,23 +168,23 @@ jobs:
 
 <div align="center">
 
-<a href="https://YOUR_USERNAME.github.io">
+<a href="https://ALEX-RPL.github.io">
   <img src="https://img.shields.io/badge/Portfolio-c8ff00?style=for-the-badge&logo=firefox-browser&logoColor=000"/>
 </a>
 &nbsp;
-<a href="mailto:hello@YOUR_DOMAIN.com">
+<a href="mailto:mohamadfebri.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/Gapunya">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/Gapunya">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://dev.to/YOUR_USERNAME">
+<a href="https://dev.to/Gapunya">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
