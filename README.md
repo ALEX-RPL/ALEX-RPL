@@ -1,160 +1,202 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ALEX-RPL · README                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                  ALEX-RPL · WEB3 README v2.0                 -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- HEADER ANIMATED -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=ALEX-RPL&fontSize=72&fontColor=c8ff00&animation=twinkling&stroke=c8ff00&strokeWidth=1&desc=Mohamad%20Febri%20Hansyah%20%E2%80%94%20Student%20Developer&descAlignY=68&descSize=15&descColor=888888"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:001a1a,100:000d26&height=220&section=header&text=ALEX-RPL&fontSize=80&fontColor=00f0ff&animation=twinkling&stroke=00f0ff&strokeWidth=2&desc=◈%20Mohamad%20Febri%20Hansyah%20◈%20Student%20Developer%20◈%20Building%20from%200%20to%201&descAlignY=72&descSize=13&descColor=4fffb0"/>
 </div>
 
-<!-- TYPING SVG -->
+<!-- MATRIX TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1000&color=C8FF00&center=true&vCenter=true&width=550&height=60&lines=Halo!+Aku+Febri%2C+dipanggil+Alex+%F0%9F%91%8B;Pelajar+RPL+yang+suka+ngoding+%F0%9F%92%BB;PHP+%7C+Laravel+%7C+MySQL+%7C+CSS+%E2%9C%85;Lagi+belajar+Next.js+%26+Python+%F0%9F%94%A5;Data+Engineering+on+the+way+%F0%9F%93%8A;Building+in+public+%E2%80%94+from+0+to+1+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=%5BSYSTEM+BOOT%5D+Initializing+ALEX-RPL...;%5BSTATUS%5D+Pelajar+RPL+%7C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%5BSTACK%5D+PHP+%2F+Laravel+%2F+MySQL+%2F+CSS+%E2%9C%85;%5BLOCATING%5D+Python+%2F+Next.js+%2F+Data+Eng+%F0%9F%94%A5;%5BMISSION%5D+Building+first+project+from+0+%E2%86%92+1+%F0%9F%9A%80;%5BGOAL+2025%5D+Ship.+Learn.+Repeat.+%E2%88%9E" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- BADGES ROW -->
+<!-- STATUS BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALEX-RPL&label=👁️+Profile+Views&color=c8ff00&style=flat-square&labelColor=111111" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ALEX-RPL?label=👥+Followers&style=flat-square&color=c8ff00&labelColor=111111" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Pelajar%20RPL%20🎓-c8ff00?style=flat-square&labelColor=111111" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collab%20🤝-ff2d78?style=flat-square&labelColor=111111" />
+
+  ![](https://img.shields.io/badge/◈_STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0d0d0d&color=00f0ff)
+  ![](https://img.shields.io/badge/◈_CHAIN-STUDENT_RPL-8b5cf6?style=for-the-badge&labelColor=0d0d0d)
+  ![](https://img.shields.io/badge/◈_NET-INDONESIA_🇮🇩-4fffb0?style=for-the-badge&labelColor=0d0d0d)
+  ![](https://img.shields.io/badge/◈_COLLAB-OPEN_🤝-ff2d78?style=for-the-badge&labelColor=0d0d0d)
+
+  <br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=ALEX-RPL&label=◈+VISITORS&color=00f0ff&style=flat-square&labelColor=0d0d0d)
+  ![Followers](https://img.shields.io/github/followers/ALEX-RPL?label=◈+FOLLOWERS&style=flat-square&color=8b5cf6&labelColor=0d0d0d)
+  ![Stars](https://img.shields.io/github/stars/ALEX-RPL?label=◈+STARS&style=flat-square&color=c8ff00&labelColor=0d0d0d)
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══ ABOUT ═══════════════════════════════════════════════════ -->
-## 🧑‍💻 `whoami`
+<!-- ▓▓▓ IDENTITY ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-```ts
-const alex = {
-  namaAsli:   "Mohamad Febri Hansyah",
-  panggilan:  "Alex",
-  username:   "ALEX-RPL",
-  status:     "🎓 Pelajar RPL — belajar & ngoding tiap hari",
-  lokasi:     "Indonesia 🇮🇩",
+## ◈ Identity Block
 
-  sudahBisa: {
-    backend:   ["PHP", "Laravel", "MySQL"],
-    frontend:  ["HTML", "CSS", "Tailwind", "Bootstrap", "Bulma"],
-  },
+<table>
+<tr>
+<td width="55%">
 
-  lagiBelajar: ["Next.js", "Python", "Data Engineering"],
-
-  portfolio:   "🚧 on going — coming soon!",
-  openCollab:  true,
-  motto:       "Mulai dulu, sempurnain sambil jalan.",
-};
+```
+╔══════════════════════════════════════════╗
+║  ░░ WALLET.JSON ░░░░░░░░░░░░░░░░░░░░░░  ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  ALIAS      →  Alex                     ║
+║  REAL       →  Mohamad Febri Hansyah    ║
+║  HANDLE     →  @ALEX-RPL               ║
+║  NODE       →  Indonesia 🇮🇩            ║
+║  CLASS      →  Student · RPL            ║
+║  STATUS     →  🟢 ACTIVE               ║
+║  COLLAB     →  OPEN ✦                  ║
+║  PORTFOLIO  →  🔨 0 → 1 (on going)     ║
+║                                          ║
+╠══════════════════════════════════════════╣
+║  MOTTO:  Mulai dulu, sempurnain nanti   ║
+╚══════════════════════════════════════════╝
 ```
 
-<br/>
+</td>
+<td width="45%" align="center">
 
----
+```javascript
+// runtime.js
 
-<!-- ═══ TECH STACK ════════════════════════════════════════════ -->
-## 🛠️ Tech Stack
+const ALEX = {
+  mode:    "LEARN → BUILD → SHIP",
+  stack:   ["PHP","Laravel","MySQL",
+            "HTML","CSS","Tailwind"],
+  loading: ["Next.js","Python",
+            "DataEng"],
+  xp:      "3+ years",
+  lvl:     "Student → Dev",
+  hp:      Infinity,   // semangat ∞
+  quest:   "Ship first live project",
+}
 
-<div align="center">
+while (ALEX.hp > 0) {
+  ALEX.learn()
+  ALEX.code()
+  ALEX.levelUp()
+}
+```
 
-### ✅ Sudah Dikuasai
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-</p>
-
-### 🔥 Lagi Dipelajari
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=c8ff00" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-FF6B35?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-<!-- ═══ GITHUB STATS ══════════════════════════════════════════ -->
-## 📊 GitHub Stats
+<!-- ▓▓▓ TECH MATRIX ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ALEX-RPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=c8ff00&icon_color=c8ff00&text_color=efefef&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX-RPL&theme=tokyonight&hide_border=true&ring=c8ff00&fire=ff2d78&currStreakLabel=c8ff00&background=0d1117" />
-</div>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX-RPL&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&title_color=c8ff00&bg_color=0d1117" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══ LEARNING ROADMAP ══════════════════════════════════════ -->
-## 🗺️ Learning Roadmap
+## ◈ Tech Matrix
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║             ALEX-RPL  LEARNING ROADMAP  2025            ║
-╠══════════════════════════════════════════════════════════╣
-║  ✅  HTML & CSS         ████████████████████░  85%       ║
-║  ✅  PHP & Laravel      █████████████████░░░░  75%       ║
-║  ✅  MySQL              ████████████████░░░░░  70%       ║
-║  🔥  Python             ███████░░░░░░░░░░░░░░  35%       ║
-║  🔥  Next.js            █████░░░░░░░░░░░░░░░░  25%       ║
-║  🔥  Data Engineering   ████░░░░░░░░░░░░░░░░░  20%       ║
-╠══════════════════════════════════════════════════════════╣
-║  📅  React              ░░░░░░░░░░░░░░░░░░░░░  NEXT      ║
-║  📅  TypeScript         ░░░░░░░░░░░░░░░░░░░░░  NEXT      ║
-║  📅  Docker             ░░░░░░░░░░░░░░░░░░░░░  FUTURE    ║
-╚══════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│  ██████ DEPLOYED — STACK CONFIRMED ██████                   │
+├─────────────────────────────────────────────────────────────┤
+│   PHP ·  Laravel ·  MySQL ·  HTML ·  CSS                   │
+│   Tailwind CSS ·  Bootstrap ·  Bulma                       │
+├─────────────────────────────────────────────────────────────┤
+│  ░░░░░░ SYNCING — IN PROGRESS ░░░░░░                        │
+├─────────────────────────────────────────────────────────────┤
+│   Next.js ·  Python ·  Data Engineering ·  TypeScript      │
+├─────────────────────────────────────────────────────────────┤
+│  ▒▒▒▒▒▒ QUEUED — NEXT UNLOCK ▒▒▒▒▒▒                        │
+├─────────────────────────────────────────────────────────────┤
+│   React ·  Docker ·  Postgres ·  Redis ·  AWS              │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <br/>
 
+**✅ DEPLOYED**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
+**🔥 SYNCING**
+
+![NextJS](https://img.shields.io/badge/Next.js-00f0ff?style=for-the-badge&logo=nextdotjs&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DataEng](https://img.shields.io/badge/Data_Engineering-FF6B35?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**🧰 TOOLS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
 ---
 
-<!-- ═══ PROJECTS ══════════════════════════════════════════════ -->
-## 🚧 Projects — On Going
+<!-- ▓▓▓ STATS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-> Portofolio masih dalam proses! Ini yang lagi dikerjain 👇
+## ◈ On-Chain Stats
 
 <div align="center">
 
-| 🔢 | Project | Stack | Progress |
-|:---:|:---|:---|:---:|
-| 01 | 🌐 **Web App CRUD** — sistem manajemen + auth + dashboard | `Laravel` `PHP` `MySQL` `Tailwind` | 🟩🟩🟩⬜⬜ 60% |
-| 02 | 📊 **Data Pipeline** — ETL: CSV → database → chart | `Python` `Pandas` `SQLite` | 🟩⬜⬜⬜⬜ 30% |
-| 03 | ⚡ **Portfolio v2** — rebuild dengan Next.js 15 | `Next.js` `TypeScript` `Tailwind` | 🟥⬜⬜⬜⬜ 10% |
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=ALEX-RPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00f0ff&icon_color=00f0ff&text_color=efefef&bg_color=0d1117&border_color=00f0ff" />
+<img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX-RPL&theme=tokyonight&hide_border=true&ring=00f0ff&fire=ff2d78&currStreakLabel=00f0ff&background=0d1117&sideNums=00f0ff&sideLabels=888" />
+
+</div>
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX-RPL&theme=tokyonight&hide_border=true&layout=donut&langs_count=6&title_color=00f0ff&bg_color=0d1117" />
+</div>
+
+<br/>
+
+---
+
+<!-- ▓▓▓ TROPHIES ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Achievement Vault
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEX-RPL&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ▓▓▓ ROADMAP ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ XP Progress Bar
+
+<div align="center">
+
+| SKILL | LEVEL | PROGRESS | STATUS |
+|:---|:---:|:---|:---:|
+| `HTML & CSS` | LVL 8 | `████████████████████` 85% | ✅ MINTED |
+| `PHP & Laravel` | LVL 7 | `█████████████████░░░` 75% | ✅ MINTED |
+| `MySQL` | LVL 7 | `████████████████░░░░` 70% | ✅ MINTED |
+| `Python` | LVL 3 | `███████░░░░░░░░░░░░░` 35% | 🔥 SYNCING |
+| `Next.js` | LVL 2 | `█████░░░░░░░░░░░░░░░` 25% | 🔥 SYNCING |
+| `Data Eng` | LVL 2 | `████░░░░░░░░░░░░░░░░` 20% | 🔥 SYNCING |
+| `TypeScript` | LVL 0 | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 QUEUED |
+| `React` | LVL 0 | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 QUEUED |
+| `Docker` | LVL 0 | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 QUEUED |
 
 </div>
 
@@ -162,95 +204,124 @@ const alex = {
 
 ---
 
-<!-- ═══ SPOTIFY ════════════════════════════════════════════════ -->
-## 🎵 Spotify — Now Playing
+<!-- ▓▓▓ PROJECTS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Project Ledger
 
 <div align="center">
 
-<!-- 
-  CARA SETUP SPOTIFY:
-  1. Buka: https://spotify-github-profile.kittinanx.com
-  2. Login dengan akun Spotify kamu
-  3. Salin UID Spotify kamu (ada di URL profile Spotify)
-  4. Ganti "SPOTIFY_UID_KAMU" di bawah ini dengan UID tersebut
--->
+```
+╔════════════════════════════════════════════════════════════════╗
+║  ░ TRANSACTION LOG — PROJECT STATUS ░░░░░░░░░░░░░░░░░░░░░░░  ║
+╠════╦═══════════════════════════╦════════════════╦════════════╣
+║ ID ║ PROJECT                   ║ STACK          ║ STATUS     ║
+╠════╬═══════════════════════════╬════════════════╬════════════╣
+║ 01 ║ 🌐 Web App CRUD           ║ Laravel+MySQL  ║ 🔨 60%     ║
+║ 02 ║ 📊 Data Pipeline ETL      ║ Python+Pandas  ║ 🔨 30%     ║
+║ 03 ║ ⚡ Portfolio v2 (Next.js) ║ Next.js+TS     ║ 📅 10%     ║
+╠════╩═══════════════════════════╩════════════════╩════════════╣
+║  ⚠  ALL PROJECTS UNCONFIRMED — PENDING DEPLOYMENT            ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=c8ff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID_KAMU&redirect=true)
+</div>
 
-> 📌 **Belum setup?** Kunjungi [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login Spotify → copy UID kamu → ganti `SPOTIFY_UID_KAMU` di atas
+> 🚧 Belum ada yang live — tapi **lagi dikerjain beneran!** Pantau repo ini terus 👀
 
+<br/>
+
+---
+
+<!-- ▓▓▓ ACTIVITY GRAPH ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Activity Signal
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALEX-RPL&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true&custom_title=◈%20ALEX-RPL%20Transaction%20History" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══ ACTIVITY GRAPH ════════════════════════════════════════ -->
-## 📈 Contribution Activity
+<!-- ▓▓▓ SPOTIFY ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALEX-RPL&bg_color=0d1117&color=c8ff00&line=c8ff00&point=ffffff&area=true&area_color=c8ff00&hide_border=true&custom_title=Alex%20Contribution%20Graph" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══ TROPHIES ══════════════════════════════════════════════ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEX-RPL&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══ SNAKE ══════════════════════════════════════════════════ -->
-## 🐍 Contribution Snake
+## ◈ Now Streaming
 
 <div align="center">
 
-<!-- Snake akan muncul setelah setup GitHub Actions di bawah -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f0ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID_KAMU&redirect=true)
 
 </div>
 
 <details>
-<summary><b>⚙️ Cara Setup Snake (WAJIB baca ini!)</b></summary>
+<summary><b>⚙️ Setup Spotify (klik untuk panduan)</b></summary>
+<br/>
+
+1. Buka **[spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com)**
+2. Klik **"Sign in with Spotify"** → login akun Spotify kamu
+3. Setelah login, lihat URL profile Spotify kamu → ambil bagian `user/XXXXX` → itu UID-nya
+4. Ganti **`SPOTIFY_UID_KAMU`** di README ini dengan UID tersebut (ada 2 tempat)
+5. Push → Spotify widget langsung aktif! 🎵
+
+</details>
 
 <br/>
 
-**Langkah 1** — Di repo `ALEX-RPL/ALEX-RPL`, buat folder dan file baru:
+---
+
+<!-- ▓▓▓ SNAKE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Network Crawler 🐍
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+<details>
+<summary><b>⚙️ Setup Snake — Panduan Lengkap Anti Gagal (klik!)</b></summary>
+<br/>
+
+### Langkah-langkah:
+
+**① Aktifkan Write Permission dulu** ← ini yang sering lupa!
+```
+Repo ALEX-RPL → Settings → Actions → General
+→ Workflow permissions → pilih "Read and write permissions"
+→ Centang "Allow GitHub Actions to create and approve pull requests"
+→ Save
+```
+
+**② Buat file workflow:**
 ```
 .github/workflows/snake.yml
 ```
 
-**Langkah 2** — Isi file `snake.yml` dengan ini:
-
+**③ Isi dengan kode ini:**
 ```yaml
-name: Generate Snake Animation
+name: 🐍 Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # otomatis tiap 12 jam
-  workflow_dispatch:          # bisa jalan manual
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -258,7 +329,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -267,13 +338,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Langkah 3** — Commit & push file tersebut
+**④ Jalankan manual:**
+```
+Tab Actions → "🐍 Generate Snake" → Run workflow → Run workflow
+```
 
-**Langkah 4** — Pergi ke tab **Actions** di repo kamu → pilih workflow **Generate Snake Animation** → klik **Run workflow** → tunggu selesai ✅
-
-**Langkah 5** — Snake akan otomatis muncul! 🐍
-
-> ⚠️ **Pastikan:** Settings → Actions → General → Workflow permissions → pilih **"Read and write permissions"** → Save
+**⑤ Tunggu ~1 menit → snake muncul!** 🐍✅
 
 </details>
 
@@ -281,25 +351,32 @@ jobs:
 
 ---
 
-<!-- ═══ FUTURE GOALS ══════════════════════════════════════════ -->
-## 🔮 Visi & Goals 2025
+<!-- ▓▓▓ ROADMAP 2025 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Mission Log 2025
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                  ROADMAP 2025 🚀                    │
-├──────────────────────────┬──────────────────────────┤
-│  Q1 — Jan/Mar            │  Q2 — Apr/Jun            │
-│  ✅ Kuasai Laravel        │  🔥 Selesaikan Next.js   │
-│  🔨 Bikin project CRUD    │  🔨 Ship project live    │
-│  🔥 Mulai Python          │  📊 Pipeline data nyata  │
-├──────────────────────────┼──────────────────────────┤
-│  Q3 — Jul/Sep            │  Q4 — Okt/Des            │
-│  📅 Belajar TypeScript    │  📅 Fullstack project    │
-│  📅 Explore React         │  📅 Buka freelance       │
-│  📅 Portfolio v2 live     │  📅 Kontribusi OSS       │
-└──────────────────────────┴──────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║            ◈ ALEX-RPL MISSION TIMELINE 2025 ◈              ║
+╠═══════════════╦══════════════════════════════════════════════╣
+║  Q1 JAN–MAR  ║  ✅ Kuasai Laravel + MySQL                  ║
+║               ║  🔨 Build CRUD web app                      ║
+║               ║  🔥 Mulai Python dari dasar                 ║
+╠═══════════════╬══════════════════════════════════════════════╣
+║  Q2 APR–JUN  ║  🔥 Selesaikan Next.js fundamentals        ║
+║               ║  🔨 Ship project pertama yang live!        ║
+║               ║  📊 Bikin data pipeline nyata              ║
+╠═══════════════╬══════════════════════════════════════════════╣
+║  Q3 JUL–SEP  ║  📅 Belajar TypeScript + React             ║
+║               ║  📅 Portfolio v2 — Next.js                 ║
+║               ║  📅 Contribute ke open source              ║
+╠═══════════════╬══════════════════════════════════════════════╣
+║  Q4 OKT–DES  ║  📅 Full-stack project end-to-end          ║
+║               ║  📅 Buka freelance / open commission       ║
+║               ║  📅 Explore Docker & Cloud                 ║
+╚═══════════════╩══════════════════════════════════════════════╝
 ```
 
 </div>
@@ -308,36 +385,11 @@ jobs:
 
 ---
 
-<!-- ═══ FUN FACTS ══════════════════════════════════════════════ -->
-## ⚡ Fun Facts
+<!-- ▓▓▓ QUOTE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();        // ← bagian favorit
-  repeat();
-}
-```
-
-</div>
-
-- 🎓 Pelajar RPL yang lebih sering buka VS Code dari buku pelajaran
-- 💡 Percaya bahwa **"broken code"** adalah bagian dari proses belajar
-- 🔥 Lagi jatuh cinta sama Python setelah bertahun-tahun di dunia PHP
-- 🌙 Paling produktif pas malam hari
-- 🎯 Goal: jadi **Data Engineer + Fullstack Dev** yang bisa bikin sistem end-to-end
-
-<br/>
-
----
-
-<!-- ═══ QUOTE ══════════════════════════════════════════════════ -->
-<div align="center">
-
-### 💭 Dev Quote of the Day
+## ◈ Signal of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -347,22 +399,22 @@ while (alive) {
 
 ---
 
-<!-- ═══ CONNECT ════════════════════════════════════════════════ -->
-## 🤝 Let's Connect
+<!-- ▓▓▓ CONNECT ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## ◈ Connect Node
 
 <div align="center">
 
-<a href="https://ALEX-RPL.github.io">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-c8ff00?style=for-the-badge&logoColor=000"/>
-</a>
-&nbsp;
-<a href="https://github.com/ALEX-RPL">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-ALEX--RPL.github.io-00f0ff?style=for-the-badge&labelColor=0d0d0d)](https://ALEX-RPL.github.io)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-@ALEX--RPL-8b5cf6?style=for-the-badge&labelColor=0d0d0d&logo=github)](https://github.com/ALEX-RPL)
 
-<br/><br/>
+<br/>
 
-*open buat collab, diskusi, atau sekedar ngobrol soal tech!*
+```
+◈ open for: collab · diskusi tech · ngoding bareng · mentorship
+◈ not open for: spam · hal negatif
+◈ response time: asap (kalo ga lagi tidur 😴)
+```
 
 </div>
 
@@ -372,9 +424,12 @@ while (alive) {
 
 <!-- FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&desc=masih+pelajar%2C+tapi+serius+ngodingnya+🔥&descAlignY=65&descSize=14&descColor=888888"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000d26,50:001a1a,100:0d0d0d&height=130&section=footer&animation=twinkling&desc=◈%20masih%20pelajar%2C%20tapi%20serius%20ngodingnya%20◈%20from%200%20to%201%20◈&descAlignY=60&descSize=13&descColor=00f0ff&reversal=true"/>
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ by <b>Mohamad Febri Hansyah</b> · Indonesia 🇮🇩</sub>
+  <sub>
+    ◈ crafted by <b>Mohamad Febri Hansyah</b> · Indonesia 🇮🇩 ◈<br/>
+    <img src="https://img.shields.io/badge/last_updated-auto-00f0ff?style=flat-square&labelColor=0d0d0d"/>
+  </sub>
 </div>
