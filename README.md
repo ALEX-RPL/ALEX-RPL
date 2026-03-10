@@ -1,18 +1,16 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ALEX_CUY&fontSize=52&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Open%20Source%20%7C%20Building%20in%20Public&descAlignY=60&descSize=15"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Alex%20%E2%80%94%20ALEX-RPL&fontSize=48&fontColor=c8ff00&animation=twinkling&fontAlignY=38&desc=Student%20Developer%20%7C%20PHP%20%C2%B7%20Laravel%20%C2%B7%20Learning%20Next.js%20%26%20Python&descAlignY=60&descSize=14"/>
 </div>
 
-<!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1000&color=C8FF00&center=true&vCenter=true&repeat=true&width=480&height=60&lines=const+dev+%3D+%ALEX_CUY%22+%F0%9F%91%8B;Building+things+that+scale+%F0%9F%9A%80;Open+source+%7C+Clean+code+%7C+Ship+fast+%E2%9A%A1;Available+for+freelance+%F0%9F%9F%A2" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=17&pause=1000&color=C8FF00&center=true&vCenter=true&width=500&height=60&lines=Halo!+Aku+Febri%2C+dipanggil+Alex+%F0%9F%91%8B;Pelajar+RPL+yang+suka+ngoding+%F0%9F%92%BB;Laravel+%7C+PHP+%7C+MySQL+%7C+CSS+frameworks;Lagi+belajar+Next.js+%26+Python+%F0%9F%94%A5;Building+in+public+%E2%80%94+on+going!+%F0%9F%9A%80" />
   </a>
 </div>
 
 <br/>
 
-<!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ALEX-RPL&label=Profile+Views&color=c8ff00&style=flat-square" />
   &nbsp;
@@ -21,14 +19,6 @@
   <a href="https://ALEX-RPL.github.io">
     <img src="https://img.shields.io/badge/Portfolio-c8ff00?style=flat-square&logo=firefox&logoColor=000" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/Gapunya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/Gapunya">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 ---
@@ -36,53 +26,25 @@
 ## `$ whoami`
 
 ```ts
-const ALEX-RPL = {
-  name:     "Mohamad Febri Hansyah",
-  role:     "Junior Programmer",
-  location: "Indonesia 🇮🇩",
-  status:  "Pelajar",
+const alex = {
+  nama:       "Mohamad Febri Hansyah",
+  panggilan:  "Alex",
+  username:   "ALEX-RPL",
+  status:     "🎓 Pelajar RPL — aktif belajar & ngoding",
+  lokasi:     "Indonesia 🇮🇩",
 
-  stack: {
-    frontend:  ["Next.js", "TypeScript", "Tailwind"],
-    backend:   ["Node.js", "Laravel", "Python", "Php"],
-    database:  ["Mysql", "MongoDB", "Redis"]
+  sudahBisa: {
+    backend:   ["PHP", "Laravel", "MySQL"],
+    frontend:  ["HTML", "CSS", "Tailwind CSS", "Bootstrap", "Bulma"],
   },
 
-  currentlyLearning: ["Rust", "Web3", "AI/ML Engineering"],
-  openToWork: true,
-  contact: "mohamadfebri.dev@gmail.com",
-} as const;
+  lagiBelajar: ["Next.js", "Python", "Data Engineering"],
+
+  portfolio:   "on going — coming soon! 🚧",
+  openCollab:  true,
+  motto:       "Mulai dulu, sempurnain sambil jalan.",
+};
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALEX-RPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=c8ff00&icon_color=c8ff00" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX-RPL&theme=tokyonight&hide_border=true&ring=c8ff00&fire=ff2d78&currStreakLabel=c8ff00" />
-</div>
-
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX-RPL&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=c8ff00" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALEX-RPL&bg_color=1a1b27&color=c8ff00&line=c8ff00&point=ffffff&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Status |
-|:---|:---|:---:|
-| 🛒 **[ShopEngine](https://github.com/ALEX-RPL/project-one)** — full-stack e-commerce w/ Stripe | `Next.js` `MongoDB` `Stripe` | On Going |
-| 💬 **[ChatVerse](https://github.com/ALEX-RPL/project-two)** — real-time messaging app | `Socket.io` `Redis` `PostgreSQL` | On Going |
-| 📊 **[DataViz](https://github.com/ALEX-RPL/project-three)** — ML-powered analytics dashboard | `Python` `FastAPI` `Recharts` | On Going |
-| 🤖 **[AI Doc QA](https://github.com/ALEX-RPL/project-four)** — RAG document assistant | `OpenAI` `Langchain` `Pinecone` | On Going |
-| ⚙️ **[CLI DevTools](https://github.com/ALEX-RPL/project-five)** — open-source dev toolbox | `Go` `Cobra` `Docker` | On Going |
-
-</div>
 
 ---
 
@@ -90,26 +52,64 @@ const ALEX-RPL = {
 
 <div align="center">
 
-**Frontend**
+**Sudah Bisa ✅**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,bootstrap&perline=7" />
 
-**Backend & DB**
+**Lagi Dipelajari 🔥**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi,postgres,mongodb,redis&perline=7" />
+<img src="https://skillicons.dev/icons?i=nextjs,python,typescript&perline=7" />
 
-**DevOps & Tools**
+**Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,nginx,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=7" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEX-RPL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALEX-RPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c8ff00&icon_color=c8ff00" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX-RPL&theme=tokyonight&hide_border=true&ring=c8ff00&fire=ff2d78&currStreakLabel=c8ff00" />
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX-RPL&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&title_color=c8ff00" />
+</div>
+
+---
+
+## 🚧 Projects — On Going
+
+> Portofolio masih dalam proses! Ini yang lagi dikerjain:
+
+| Project | Stack | Status |
+|:---|:---|:---:|
+| 🌐 **Web App CRUD** — sistem manajemen dengan auth & dashboard | `Laravel` `PHP` `MySQL` `Tailwind` | 🔨 60% |
+| 📊 **Data Pipeline** — ETL sederhana CSV → database → visualisasi | `Python` `Pandas` `SQLite` | 🔨 30% |
+| ⚡ **Portfolio v2** — upgrade ke Next.js + TypeScript | `Next.js` `TypeScript` `Tailwind` | 📅 10% |
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+✅ HTML & CSS          ████████████████████ 85%
+✅ PHP & Laravel       █████████████████░░░ 75%
+✅ MySQL               ████████████████░░░░ 70%
+🔥 Python              ███████░░░░░░░░░░░░░ 35%
+🔥 Next.js             █████░░░░░░░░░░░░░░░ 25%
+🔥 Data Engineering    ████░░░░░░░░░░░░░░░░ 20%
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEX-RPL&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" />
 </div>
 
 ---
@@ -118,16 +118,16 @@ const ALEX-RPL = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ALEX_RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg"/>
     <img alt="snake" src="https://raw.githubusercontent.com/ALEX-RPL/ALEX-RPL/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 <details>
-<summary><b>🔧 Setup snake animation (click)</b></summary>
+<summary><b>⚙️ Setup snake animation</b></summary>
 
-Create `.github/workflows/snake.yml`:
+Buat file `.github/workflows/snake.yml` di repo `ALEX-RPL/ALEX-RPL`:
 
 ```yaml
 name: Snake Animation
@@ -153,17 +153,6 @@ jobs:
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built a Real-time Chat App with 1000+ Concurrent Users](https://dev.to/ALEX-RPL)
-- [⚡ Next.js 15 — What's New and Why It Matters](https://dev.to/ALEX-RPL)
-- [🐳 Docker in 2025: A Developer's Practical Guide](https://dev.to/ALEX-RPL)
-- [🔒 JWT vs Session Auth — When to Use Which](https://dev.to/ALEX-RPL)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Connect
 
 <div align="center">
@@ -172,20 +161,8 @@ jobs:
   <img src="https://img.shields.io/badge/Portfolio-c8ff00?style=for-the-badge&logo=firefox-browser&logoColor=000"/>
 </a>
 &nbsp;
-<a href="mailto:mohamadfebri.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/Gapunya">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/Gapunya">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://dev.to/Gapunya">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<a href="https://github.com/ALEX-RPL">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -197,5 +174,5 @@ jobs:
 </div>
 
 <div align="center">
-  <sub>⭐ star my repos if they helped you · built with ❤️ in Indonesia</sub>
+  <sub>masih pelajar, tapi serius ngodingnya 🔥 · made with ❤️ in Indonesia</sub>
 </div>
